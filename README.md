@@ -1,6 +1,6 @@
 # spiderly-api
 
-FIXME: description
+An open api for obtaining a variety of information about many different types of spiders.
 
 ## Installation
 
@@ -8,29 +8,20 @@ Download from http://example.com/FIXME.
 
 ## Usage
 
-FIXME: explanation
-
     $ java -jar spiderly-api-0.1.0-standalone.jar [args]
 
-## Options
+## Running
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
+Once cloned, run `lein run` in the main folder of the application.  Open up `http:/127.0.0.1:3000/` locally in the browser, and see the available routes to being using the api.
 
 ### Bugs
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 Zazingo
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
